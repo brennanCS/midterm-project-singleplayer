@@ -1,0 +1,19 @@
+body{
+    font-family:"Helvetica";
+    color:rgb(211, 95, 80);
+    background-color:darkslategray;
+    text-align:Center;
+}
+footer{
+    color:rgb(32, 104, 76);
+    padding: 25px;
+    font-family:fantasy;
+    font-size:25px;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:200px;
+    width:380px;
+}
