@@ -34,3 +34,8 @@ img{
     border-style:groove;
     border-color:rgb(30, 67, 167);
 }
+#about{
+    border-width:20px;
+    border-style:outset;
+    border-color:rgb(30, 197, 100);
+}
