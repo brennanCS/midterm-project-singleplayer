@@ -19,3 +19,18 @@ img{
     height:400px;
     width:580px;
 }
+#gojo{
+    border-width:10px;
+    border-style:inset;
+    border-color:blueviolet;
+}
+#yuji{
+    border-width:10px;
+    border-style:ridge;
+    border-color:rgb(184, 84, 109);
+}
+#megumi{
+    border-width:10px;
+    border-style:groove;
+    border-color:rgb(30, 67, 167);
+}
